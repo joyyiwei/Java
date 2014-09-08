@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="access1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/access/access/javassist.jar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/access/access/javassist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
